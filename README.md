@@ -3,6 +3,7 @@ codeigniter_pagination
 
 코드이그나이터 커스텀 페이징 입니다. 
 위치는 application/libraries/ 밑에 넣어주시면 됩니다.
+query 시 limit 부분은 (페이지번호 - 1) 해주셔야 됩니다.
 
 
 #컨트롤러 단에서 설정
